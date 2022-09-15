@@ -71,8 +71,8 @@ email: ''
 highlight_name: true
 ---
 
-Anneliese Schenk-Day is a sociology PhD student at the Ohio State University. Her research interests surround the broad concept of mass violence, particularly the prevention, prediction, and legal aftermath, of hate crimes on both a national and global scale. More specifically, she is interested in hate groups within the United States and ongoing violent conflicts such as the persecution of the Rohingya in Myanmar, the war in Ukraine, and the Uyghurs in China. Her current projects include a temporal evaluation of the effectiveness of hate crime legislation in the United States from 1970-2021 using news coverage of crimes, and a paper looking at women’s reentry post incarceration for crimes of genocide in Rwanda.
+I am a sociology PhD student at the Ohio State University. My research interests surround the broad concept of mass violence, particularly the prevention, prediction, and legal aftermath, of hate crimes on both a national and global scale. Specifically, I am interested in hate groups within the United States and ongoing violent conflicts such as the persecution of the Rohingya in Myanmar, the war in Ukraine, and the Uyghurs in China. My current projects include a temporal evaluation of the effectiveness of hate crime legislation in the United States from 1970-2021, and a paper looking at women’s community reentry post incarceration for crimes of genocide in Rwanda.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my free time I enjoy traveling and hiking with my husband, as well as doing yoga, gardening, and playing with our great dane and corgi. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
