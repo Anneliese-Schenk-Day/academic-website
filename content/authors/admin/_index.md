@@ -71,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Anneliese Schenk-Day is a sociology PhD student at the Ohio State University. Her research interests surround the broad concept of mass violence, particularly the prevention, prediction, and legal aftermath, of hate crimes on both a national and global scale. More specifically, she is interested in hate groups within the United States and ongoing violent conflicts such as the persecution of the Rohingya in Myanmar, the war in Ukraine, and the Uyghurs in China. Her current projects include a temporal evaluation of the effectiveness of hate crime legislation in the United States from 1970-2021 using news coverage of crimes, and a paper looking at women’s reentry post incarceration for crimes of genocide in Rwanda.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
