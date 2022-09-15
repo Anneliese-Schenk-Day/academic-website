@@ -14,13 +14,17 @@ organizations:
     url: https://sociology.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Mass Violence Pevention 
+  - Global and Transnational Sociology 
+  - Crime, Law, and Deviance 
   - Comparitive Historical Sociology
-  - Hate Groups
+  - Peace, War, and Social Conflict 
+  - Sociology of Human Rights
+  - Social Psychology 
+  - Sociology of Religion
 
 # Education to show in About widget
 education:
