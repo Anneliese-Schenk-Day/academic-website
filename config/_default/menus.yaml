@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: 'url: uploads/resume.pdf'
+    url: 'url: uploads/Schenk-DayCV.pdf'
     weight: 20
   - name: Contact
     url: '#contact'
