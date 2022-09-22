@@ -46,7 +46,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/SchenkDay
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -71,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a sociology PhD student at the Ohio State University. My research interests surround the broad concept of mass violence, particularly the prevention, prediction, and legal aftermath, of hate crimes on both a national and global scale. Specifically, I am interested in hate groups within the United States and ongoing violent conflicts such as the persecution of the Rohingya in Myanmar, the war in Ukraine, and the Uyghurs in China. My current projects include a temporal evaluation of the effectiveness of hate crime legislation in the United States from 1970-2021, and a paper looking at women’s community reentry post incarceration for crimes of genocide in Rwanda.
+I am a sociology PhD student at the [Ohio State University](https://sociology.osu.edu/). My research interests surround the broad concept of mass violence, particularly the prevention, prediction, and legal aftermath, of hate crimes on both a national and global scale. Specifically, I am interested in hate groups within the United States and ongoing violent conflicts such as the persecution of the Rohingya in Myanmar, the war in Ukraine, and the Uyghurs in China. My current projects include a temporal evaluation of the effectiveness of hate crime legislation in the United States from 1970-2021, and a paper looking at women’s community reentry post incarceration for crimes of genocide in Rwanda.
 
 In my free time I enjoy traveling and hiking with my husband, as well as doing yoga, gardening, and playing with our great dane and corgi. 
 
