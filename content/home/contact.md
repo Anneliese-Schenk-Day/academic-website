@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: schenk.67@osu.edu
   # phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 1885 Neil Ave
+    city: Columbus
+    region: OH
+    postcode: '43210'
     country: United States
     country_code: US
   # coordinates:
