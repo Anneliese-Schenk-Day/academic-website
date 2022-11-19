@@ -24,7 +24,6 @@ interests:
   - Peace, War, and Social Conflict 
   - Sociology of Human Rights
   - Social Psychology 
-  - Sociology of Religion
 
 # Education to show in About widget
 education:
@@ -70,9 +69,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a sociology PhD student at the [Ohio State University](https://sociology.osu.edu/). My research interests surround the mass violence, particularly the prevention, prediction, and legal aftermath, of hate crimes on both a national and global scale. Within the context of the United States, I am interested in hate crimes that target racial and sexual minorities. Globally, my research interests are ongoing violent conflicts such as the persecution of the Rohingya in Myanmar, and the war in Ukraine, as well as the collective memories groups form after atrocities such as the 1994 Rwandan Genocide and the Bosnian War. My current projects include an analysis of media reports of hate in the United States from 1970-2021 with [Dana Haynie](https://sociology.osu.edu/people/haynie.7), and a paper looking at women’s community reentry post incarceration for crimes of genocide in Rwanda with [Hollie Nyseth Nzitatira](https://sociology.osu.edu/people/nzitatira.1).
 
-I am a sociology PhD student at the [Ohio State University](https://sociology.osu.edu/). My research interests surround the broad concept of mass violence, particularly the prevention, prediction, and legal aftermath, of hate crimes on both a national and global scale. Specifically, I am interested in hate groups within the United States and ongoing violent conflicts such as the persecution of the Rohingya in Myanmar, the war in Ukraine, and the Uyghurs in China. My current projects include a temporal evaluation of the effectiveness of hate crime legislation in the United States from 1970-2021 with [Dana Haynie](https://sociology.osu.edu/people/haynie.7), and a paper looking at women’s community reentry post incarceration for crimes of genocide in Rwanda with [Hollie Nyseth Nzitatira](https://sociology.osu.edu/people/nzitatira.1).
-
-In my free time I enjoy traveling and hiking with my husband, as well as doing yoga, gardening, and playing with our great dane and corgi. 
+In my free time I enjoy traveling and hiking with my husband, as well as doing yoga, gardening, and playing with our great dane and corgi.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
